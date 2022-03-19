@@ -1,0 +1,11 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    //Also can be written as; std::cout<<" ";
+    cout<<"Welcome to github";
+
+    return 0;
+}
